@@ -20,7 +20,7 @@ using MelonLoader;
 // COM aus zugreifen müssen, sollten Sie das ComVisible-Attribut für diesen Typ auf "True" festlegen.
 [assembly: ComVisible(false)]
 
-[assembly: MelonInfo(typeof(OUTLIER_bhaptics.OUTLIER_bhaptics), "OUTLIER_bhaptics", "1.0.0", "Florian Fahrenberger")]
+[assembly: MelonInfo(typeof(OUTLIER_bhaptics.OUTLIER_bhaptics), "OUTLIER_bhaptics", "1.1.0", "Florian Fahrenberger")]
 [assembly: MelonGame("JoyWay", "Outlier")]
 
 // Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird
@@ -36,5 +36,5 @@ using MelonLoader;
 // Sie können alle Werte angeben oder Standardwerte für die Build- und Revisionsnummern verwenden,
 // indem Sie "*" wie unten gezeigt eingeben:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.1.0")]
+[assembly: AssemblyFileVersion("1.1.0")]
