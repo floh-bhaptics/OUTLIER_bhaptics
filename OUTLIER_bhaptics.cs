@@ -8,6 +8,10 @@ using MelonLoader;
 using HarmonyLib;
 using MyBhapticsTactsuit;
 
+[assembly: MelonInfo(typeof(OUTLIER_bhaptics.OUTLIER_bhaptics), "OUTLIER_bhaptics", "1.1.0", "Florian Fahrenberger")]
+[assembly: MelonGame("JoyWay", "Outlier")]
+
+
 namespace OUTLIER_bhaptics
 {
     public class OUTLIER_bhaptics : MelonMod
