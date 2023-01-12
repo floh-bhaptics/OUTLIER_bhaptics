@@ -17,7 +17,7 @@ namespace OUTLIER_bhaptics
 {
     public class OUTLIER_bhaptics : MelonMod
     {
-        public static TactsuitVR tactsuitVr;
+        public static TactsuitVR tactsuitVr = null!;
 
         public override void OnInitializeMelon()
         {
