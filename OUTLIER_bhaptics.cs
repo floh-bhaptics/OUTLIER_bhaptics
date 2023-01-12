@@ -9,7 +9,7 @@ using HarmonyLib;
 using MyBhapticsTactsuit;
 using Il2Cpp;
 
-[assembly: MelonInfo(typeof(OUTLIER_bhaptics.OUTLIER_bhaptics), "OUTLIER_bhaptics", "1.1.0", "Florian Fahrenberger")]
+[assembly: MelonInfo(typeof(OUTLIER_bhaptics.OUTLIER_bhaptics), "OUTLIER_bhaptics", "2.0.0", "Florian Fahrenberger")]
 [assembly: MelonGame("JoyWay", "Outlier")]
 
 
